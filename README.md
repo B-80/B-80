@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @B-80
-- 👀 I’m interested in led stripes
+- 👀 I’m interested in led Stripes
 - 🌱 I’m currently learning Python
